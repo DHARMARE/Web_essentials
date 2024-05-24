@@ -1,0 +1,6 @@
+ph_no = int(input("Enter phone number:"))
+city = input("Enter the city:")
+pin_code = int(input("Enter the pin code:"))
+print("Your phone number is:",ph_no)
+print("Your city is:",city)
+print("Your pin code is:",pin_code)
